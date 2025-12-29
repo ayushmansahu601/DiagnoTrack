@@ -1,4 +1,4 @@
-# PatientManager
+# DiagnoTrack
 
 This project is a hospital management application developed using React for the front end and Node.js for the backend, with SQLite as the database. The system allows hospital staff to efficiently enter and manage patient details.
 
@@ -19,8 +19,8 @@ To set up and run the project locally, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ayushmansahu601/PatientManager.git  # Clone the repository
-   cd PatientManager  # Change to the project directory
+   git clone https://github.com/ayushmansahu601/DiagnoTrack.git  # Clone the repository
+   cd DiagnoTrack  # Change to the project directory
 2.**Install Dependencies for Backend**
 
     ```bash
