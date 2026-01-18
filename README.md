@@ -1,9 +1,9 @@
 # DiagnoTrack
 
-This project is a hospital management application developed using React for the front end and Node.js for the backend, with SQLite as the database. The system allows hospital staff to efficiently enter and manage patient details.
+This project is a hospital management application developed using React for the front end and Node.js for the backend, with MongoDB as the database. The system allows hospital staff to efficiently enter and manage patient details.
 
 ## Key Features
-- **Patient Record Management:** Easily input and store patient details in the SQLite database.
+- **Patient Record Management:** Easily input and store patient details in the MongoDB database.
 - **Glaucoma Detection Prompt:** Automatically prompts for family member details if a patient is diagnosed with glaucoma.
 - **Family Member Outreach:** Generates warning messages for family members, encouraging them to get screened for glaucoma.
 - **User-Friendly Interface:** Designed with a responsive UI for seamless use by hospital staff.
@@ -11,7 +11,7 @@ This project is a hospital management application developed using React for the 
 ## Tech Stack
 - **Frontend:** React
 - **Backend:** Node.js
-- **Database:** SQLite
+- **Database:** MongoDB
 
 ## Initialization Steps
 
